@@ -29,6 +29,9 @@ We use this categorical data encoding technique when the features are nominal(do
   # 2. POWER TRANSFORMATION
 • Boxcox method
 • Yeojohnson method
+# Details:
+Name : Naresh S
+Reg no : 212224240101
 
 # CODING AND OUTPUT:
 
